@@ -1,0 +1,12 @@
+.third-sec{
+	margin-bottom: 20px;
+}
+.third-sec .materials h1{
+	text-align: center;
+	margin: 20px;
+}
+.third-sec .video{
+	display: block;
+	margin: auto;
+	height: 400px;
+}
