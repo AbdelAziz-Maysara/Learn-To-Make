@@ -10,3 +10,7 @@
 	margin: auto;
 	height: 400px;
 }
+
+.posts-title .excert{
+	color: rgba(0, 0, 0, 1);
+}
