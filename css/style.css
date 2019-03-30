@@ -1,9 +1,9 @@
 .third-sec{
 	margin-bottom: 20px;
 }
-.third-sec .materials h1{
-	text-align: center;
-	margin: 20px;
+.third-sec .materials{
+	margin: 20px 0 20px 0;
+ width: 50%;
 }
 .third-sec .video{
 	display: block;
